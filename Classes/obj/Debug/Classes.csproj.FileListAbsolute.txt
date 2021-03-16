@@ -1,0 +1,14 @@
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\bin\Debug\Classes.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\bin\Debug\Classes.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\obj\Debug\Classes.csproj.CopyComplete
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\obj\Debug\Classes.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Classes\obj\Debug\Classes.pdb

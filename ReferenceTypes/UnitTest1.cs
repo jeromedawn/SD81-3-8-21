@@ -84,6 +84,8 @@ namespace ReferenceTypes
             Random rng = new Random();
 
             int randomNumber = rng.Next();
+
+            Console.WriteLine(randomNumber);
         }
     }
 }

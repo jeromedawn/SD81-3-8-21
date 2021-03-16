@@ -1,0 +1,2 @@
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\ChallengeMorning\obj\Debug\MorningChallenges.csprojAssemblyReference.cache
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\ChallengeMorning\obj\Debug\MorningChallenges.csproj.CoreCompileInputs.cache

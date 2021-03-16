@@ -82,16 +82,14 @@ namespace Conditionals
                 case 1:
                     output = "Case 1";
                     break;
-                case 2:
-                   
+                case 2:    
                     output = "Case 2";
                     break;
-                default:
-                    
+                default:    
                     output = "Default Case";
                     break;
-                    Console.WriteLine(output);     
             }
+                    Console.WriteLine(output);     
 
         }
     }

@@ -1,0 +1,14 @@
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\bin\Debug\Comparison.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\bin\Debug\Comparison.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\obj\Debug\Comparison.csproj.CopyComplete
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\obj\Debug\Comparison.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\obj\Debug\Comparison.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\Comparison\obj\Debug\Comparison.csprojAssemblyReference.cache

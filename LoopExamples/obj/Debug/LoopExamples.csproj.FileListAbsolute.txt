@@ -1,0 +1,14 @@
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\obj\Debug\LoopExamples.csprojAssemblyReference.cache
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\obj\Debug\LoopExamples.csproj.CoreCompileInputs.cache
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\bin\Debug\LoopExamples.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\bin\Debug\LoopExamples.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\obj\Debug\LoopExamples.csproj.CopyComplete
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\obj\Debug\LoopExamples.dll
+C:\Users\JD\Documents\SD 81 3-8-21\CSharpFundamentals\LoopExamples\obj\Debug\LoopExamples.pdb
